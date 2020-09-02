@@ -6,7 +6,7 @@ import React, { Component } from "react";
 import "./FormLogin.css";
 import { Button } from "react-bootstrap";
 import http from "./http-common";
-
+import "bootstrap/dist/css/bootstrap.min.css";
 export default class FormLogin extends Component {
   constructor(props) {
     super(props);
