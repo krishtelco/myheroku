@@ -1,0 +1,22 @@
+.login {
+  width: 350px;
+  border: 1px solid #f3062d;
+  padding: 0px 15px 15px 15px;
+  border-radius: 150px;
+  font-family: arial;
+  line-height: 18px;
+  color: #333333;
+  font-size: 16px;
+  background: #c0dbe4;
+  margin: 100px auto;
+}
+.vm {
+  vertical-align: middle;
+}
+
+.abscenter {
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
