@@ -24,6 +24,16 @@
   color: white;
 }
 
+.rowback {
+  background-color: #334363;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.vertali {
+  min-height: 100vh;
+  justify-content: center;
+  background-color: #66696e;
+}
 .App-link {
   color: #61dafb;
 }
